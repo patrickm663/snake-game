@@ -22,12 +22,12 @@ love src/
 The snake is controlled by either WASD or directional keys. Eating an apple (marked in red) grows the snake by one segment. If the snake crosses its own path, the snake dies and the game is reset.
 
 ## TODO
-- [] Add sound
-- [] Add a main menu
-- [] Add varying difficulties
-- [] Fix aspect ratio
-- [] Add levels
-- [] Add splash screen following win/loss
-- [] Add scoreboard
-- [] Add A.I. mode
-- [] Add two-player mode
+- [ ] Add sound
+- [ ] Add a main menu
+- [ ] Add varying difficulties
+- [ ] Fix aspect ratio
+- [ ] Add levels
+- [ ] Add splash screen following win/loss
+- [ ] Add scoreboard
+- [ ] Add A.I. mode
+- [ ] Add two-player mode
