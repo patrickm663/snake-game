@@ -1,6 +1,6 @@
 # snake-game
 
-Snake in Lua using LOVE2D. Code and instructions provided by https://simplegametutoarials.github.io/love/snake/18.html. 
+Snake in Lua using LOVE2D. Code and instructions provided by https://simplegametutorials.github.io/love/snake/18.html. 
 
 The intention is to create a proof-of-concept game from which to build on and explore the use of A.I. to train a snake algorithm.
 
